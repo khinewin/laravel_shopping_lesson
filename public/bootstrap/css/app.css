@@ -1,0 +1,15 @@
+#myContainer{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+li {
+    list-style: none;
+}
+#showCoffee img {
+    width: 45px;
+    height: 40px;
+}
+.thumbnail img {
+    width: 200px;
+    height: 160px;
+}
